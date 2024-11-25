@@ -1,6 +1,4 @@
 Hey, das ist eine Dokumentation für C
- 
-Ich wünsche viel Spaß beim lernen.
 
 
-Eyyyyy
+Die Anleitung findet man im Wiki
